@@ -113,19 +113,9 @@ Created derived metrics to enhance analysis:
 
 ---
 
-## 💼 Resume Highlight
-
-* Performed end-to-end retail data analysis using PostgreSQL
-* Solved real-world business problems related to inventory and pricing
-* Applied advanced SQL techniques to derive actionable insights
-
----
-
 ## 🚀 Future Improvements
 
 * Build an interactive Power BI dashboard
-* Add time-based analysis (if data available)
-* Implement predictive models for demand forecasting
 
 ---
 
